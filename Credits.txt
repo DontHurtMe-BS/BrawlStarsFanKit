@@ -1,0 +1,125 @@
+CREATED BY: Coolrobot-X
+SFX AND IMAGES EDITED BY: Coolrobot-X
+SLUGFEST MUSIC BY: Coolrobot-X
+SFX DONATIONS: Nikko Pakki and Sector03
+IMAGES AND OTHER FILES DONATIONS: Sector03
+
+Special thanks to Supercell for the right of letting us do this! Also special thanks to Sector03 who has been super awesome to donate SFX and other image file spreadsheets! Special thanks to Nikko Pakki for a ton of SFX donations as well with a positive attitude! I also got some in game files from a data miner by the name on Imgur of MinileandroCP! Also there was also one other help of getting extra files that I used from with the name of Trgrit on Reddit! Note: they did not put this together as they helped with giving extra materials and names but did not form the folders of the fan kit! Thanks to all who help give me what they could and suggesting!
+
+This is Version 1.2, and will contain no further updates to this folder of files! Meaning if there is another update to the fan kit it will be a brand new folder with everything in this folder and more that will be Uploaded with a different link. The folder you have in front of you will never include more content than it did before!
+
+Version 1.2 Patch Notes
+
+SFX and Music changes and additions:
+-Battle Landscape Music has been renamed to Battle Music 1
+-Draw Screen Landscape has been renamed to Draw Screen Music
+-Lose Screen Landscape has been renamed to Lose Screen Music
+-Win Screen Landscape has been renamed to Win Screen Music
+-Made a new folder called Voice SFX
+-Voice SFX folder will have a folder for every brawler that has a voice that is implanted in the fan kit meaning if we don’t have Shelly then you won’t see her folder but if we have Barley you’ll see his
+-Brawler voices shall always be named with the brawler name and then a number for order 
+-Made a new folder called Battle and In game music folder
+-Made a new folder called Brawler SFX Meaning and attack, reload, super and other noises not related to voices and works with a folder for each brawler that has these sounds
+-ALL SFX FILES GOT MOVED INTO BRAND NEW FOLDERS
+-Made a new folder called Menu SFX which contains coin noises loading into battle SFX and other Button sounds
+-Made a new folder called Unlocking rarity which contains SFX of unlocking brawlers
+
+Battle and in game music:
+-*RENAMED*Battle Music 1
+-*RENAMED*Draw Screen Music
+-*RENAMED*Lose Screen Music
+-*RENAMED*Win Screen Music
+
+Voice SFX:
+-*NEW* Crow’s Voice 3
+-*NEW* Crow’s Voice 4
+-*NEW* Crow’s Voice 5
+-*NEW* Crow’s Voice 6
+-*NEW* Crow’s Voice 7
+-*NEW* Crow’s Voice 8
+-*NEW* Crow’s Voice 9
+-*NEW* Crow’s Voice 10
+-*NEW* Crow’s Voice 11
+-*NEW* Crow’s Voice 12
+-*NEW* Crow’s Voice 13
+-*NEW* Crow’s Voice 14
+-*NEW* Crow’s Voice 15
+-*NEW* Crow’s Voice 16
+-*NEW* Bulls Voice 2
+-*NEW* Bulls Voice 3
+-*NEW* Bulls Voice 4
+-*NEW* Bulls Voice 5
+-*NEW* Bulls Voice 6
+-*NEW* Bulls Voice 7
+-*NEW* Bulls Voice 8
+-*NEW* Bulls Voice 9
+-*NEW* Bulls Voice 10
+-*NEW* Bulls Voice 11
+-*NEW* Bulls Voice 12
+-*NEW* Bulls Voice 13
+
+Images changes and Additions:
+-Brand new folder at home screen for menu called Words
+-Brand new folder called character items which is located in the front area of the folder
+
+Backgrounds:
+-*NEW* Mountain Range
+
+Words:
+-*NEW* Upper Case Alphabet
+-*NEW* Lower Case Alphabet
+-*NEW* A
+-*NEW* AA
+-*NEW* AAA
+-*NEW* AAAA
+-*NEW* AACHEN
+-*NEW* AAES
+-*NEW* AAF
+-*NEW* AAH
+-*NEW* AALBORG
+-*NEW* AALESUND
+-*NEW* AALII
+-*NEW* AALST
+-*NEW* AALTO
+-*NEW* AAM
+-*NEW* AAP
+-*NEW* AAR
+-*NEW* AARAU
+-*NEW* AARDVARK
+-*NEW* AARDWOLF
+-*NEW* AARGAU
+-*NEW* AARHUS
+-*NEW* AARNET
+-*NEW* Wow
+
+Character Items:
+-*NEW* Pam Blue Station
+-*NEW* Pam Red Station
+-*NEW* Cactus Ball
+-*NEW* Crow Dagger
+-*NEW* Piper Bomb
+-*NEW* Tara Card 1
+
+Leagues:
+-*NEW* Gold League
+-*NEW* Silver League
+-*NEW* Bronze League
+-*NEW* Master League
+
+Icons:
+-*NEW* Global
+-*NEW* Locked
+-*NEW* Random
+-*NEW* Mythic Brawler Purchase
+-*NEW* Attack Joystick 
+
+All In Map Items:
+-*NEW* Bottom Grass
+
+Banners:
+-*NEW* Mortis Banner
+
+Portraits:
+-*NEW* Long Group Portrait
+
+Thanks so much for downloading the fan kit! Any further questions please write to the content creator on reddit named Coolrobot-X
